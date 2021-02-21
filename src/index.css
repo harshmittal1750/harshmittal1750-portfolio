@@ -60,7 +60,7 @@ body {
   /* centers the loading animation horizontally one the screen */
   top: 50%;
   /* centers the loading animation vertically one the screen */
-  background-image: url("./assets/img/loder.gif");
+
   /* path to your loading animation */
   background-repeat: no-repeat;
   background-position: center;
@@ -68,7 +68,6 @@ body {
   /* is width and height divided by two */
 }
 .head-bg {
-  background-image: url(assets/img/0bb6dqsiab451.gif);
   background-repeat: no-repeat;
   background-size: cover;
   background-size: 100% 100%;
