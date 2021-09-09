@@ -1,7 +1,11 @@
 import React from "react";
-import "./banner.css";
+import "../Banner/Banner.css";
 const Banner = () => {
-  return <div className="banner"></div>;
+  return (<div className="banner">
+
+      <div className="banner-text">Hello I am Harsh Mittal</div>
+      <div className="banner-text">I' m a full stack web developer</div>
+  </div>);
 };
 
 export default Banner;

@@ -1,4 +1,15 @@
 .banner {
   width: 100%;
-  display: block;
+  height: 70vh;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+  background-image: url(/src/images/banner.gif);
+}
+
+.banner-text {
+  font-size: 2em;
+  color: white;
+  text-align: center;
+  padding-top: 10vh;
 }
